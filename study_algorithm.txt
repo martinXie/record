@@ -1,0 +1,4 @@
+
+Basic Data Structures and Algorithms in the Linux Kernel
+http://luisbg.blogalia.com/historias/74062
+
